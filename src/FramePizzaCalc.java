@@ -1,3 +1,8 @@
+/*
+This program was created by Dylan T
+It was created on March 9th 2018
+This program calculates the price of pizza 
+*/
 import java.text.*;
 public class FramePizzaCalc extends javax.swing.JFrame {
 
